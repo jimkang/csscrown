@@ -1,14 +1,14 @@
 {
-  "name": "one-at",
-  "version": "0.1.1",
+  "name": "csscrown",
+  "version": "1.0.0",
   "description": "Small utility for granting a CSS class to one selected element and one element only at any given time.",
-  "main": "one-at.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:jimkang/one-at.git"
+    "url": "git@github.com:jimkang/csscrown.git"
   },
   "keywords": [
     "one",
@@ -19,7 +19,7 @@
   "author": "Jim Kang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jimkang/one-at/issues"
+    "url": "https://github.com/jimkang/csscrown/issues"
   },
-  "homepage": "https://github.com/jimkang/one-at"
+  "homepage": "https://github.com/jimkang/csscrown"
 }
